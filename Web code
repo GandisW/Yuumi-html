@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Yuumi Rule34 Apreciators</title>
+</head>
+<body>
+    <form>
+        <h1 style="color:darkslateblue">Yuumi Rule34 Website</h1>
+        <p> Pagina web dedica exclusivamenete para redirigir
+            <br>
+            a yuumi rule 34
+            <br>
+            <a style="color:red" target="_blank" href="https://rule34.xxx/index.php?page=post&s=list&tags=yuumi_%28lol%29">CLICK AQUI</a>
+        </p>
+    </form>
+    <img src="Imagenes/yuumi.gif" width="300"/>
+    <form>
+        <hr>
+        <h4>¿te gusta la pagina?
+            <br>
+            dejanos un comentario!
+        </h4>
+        <label for="NombreGamer"></label>
+        <input type="text" id="NombreGamer" placeholder="NombreGamer">
+        <br>
+        <label for="Comentario"></label>
+        <textarea cols="50" rows="10" id="Comentario" placeholder="Ingrese su comentario" ></textarea>
+    </form>
+</body>
+</html>
